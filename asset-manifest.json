@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cryptoplace%20/static/css/main.1f267eeb.css",
-    "main.js": "/cryptoplace%20/static/js/main.8a172f04.js",
-    "index.html": "/cryptoplace%20/index.html",
-    "main.1f267eeb.css.map": "/cryptoplace%20/static/css/main.1f267eeb.css.map",
-    "main.8a172f04.js.map": "/cryptoplace%20/static/js/main.8a172f04.js.map"
+    "main.css": "/cryptoplace/static/css/main.1f267eeb.css",
+    "main.js": "/cryptoplace/static/js/main.8a172f04.js",
+    "index.html": "/cryptoplace/index.html",
+    "main.1f267eeb.css.map": "/cryptoplace/static/css/main.1f267eeb.css.map",
+    "main.8a172f04.js.map": "/cryptoplace/static/js/main.8a172f04.js.map"
   },
   "entrypoints": [
     "static/css/main.1f267eeb.css",
